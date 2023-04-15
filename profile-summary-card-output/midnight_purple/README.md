@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/TapTap21/TapTap21/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)
-```
-
-    
